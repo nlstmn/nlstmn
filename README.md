@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning better front-end web practices
 
-- 👯 I’m looking to collaborate on with other content creators
+- 👯 I’m looking to collaborate on with other software engineers
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/lianatmn/](https://www.linkedin.com/in/lianatmn/)
 
