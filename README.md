@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Liana</h1>
-<h3 align="center">A passionate senior front-end web app developer based in Istanbul.</h3>
+<h1>Hi 👋, I'm Liana</h1><br/>
+<h3>A passionate senior front-end web app developer based in Istanbul.</h3>
 
-- 🔭 I’m currently working on **something cool 😉**
+- 🔭 I’m currently working on something cool 😉
 
-- 🌱 I’m currently learning **better front-end web practices**
+- 🌱 I’m currently learning better front-end web practices
 
-- 👯 I’m looking to collaborate on **with other content creators**
+- 👯 I’m looking to collaborate on with other content creators
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/lianatmn/](https://www.linkedin.com/in/lianatmn/)
 
-- 💬 Ask me about **React • TypeScript • JS • Next.js • Gatsby • Strapi • Node.js**
+- 💬 Ask me about React • TypeScript • JS • Next.js • Gatsby • Strapi • Node.js
 
-- 📫 How to reach me **nlstmn@gmail.com**
+- 📫 How to reach me nlstmn@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
