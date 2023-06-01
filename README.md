@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/lianatmn/](https://www.linkedin.com/in/lianatmn/)
 
-- 💬 Ask me about React • TypeScript • JS • Next.js • Gatsby • Strapi • Node.js
+- 💬 Ask me about React | TypeScript | JS | Next.js | Gatsby | Strapi | Node.js
 
 - 📫 How to reach me nlstmn@gmail.com
 
