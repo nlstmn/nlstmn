@@ -1,5 +1,4 @@
-<h3>Hi 👋, I'm Liana</h3>
-<h3>A passionate senior front-end web app developer based in Istanbul.</h3>
+<h3>Hi 👋, I'm Liana — A passionate senior front-end web app developer based in Istanbul.</h3>
 
 - 🔭 I’m currently working on something cool 😉
 
