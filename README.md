@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Liana</h1><br/>
+<h1>Hi 👋, I'm Liana</h1>
 <h3>A passionate senior front-end web app developer based in Istanbul.</h3>
 
 - 🔭 I’m currently working on something cool 😉
