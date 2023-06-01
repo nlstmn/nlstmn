@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on something cool 😉
 
-- 🌱 I’m currently learning better front-end web practices
+- 🌱 I’m currently learning better front-end web practices and some back-end
 
 - 👯 I’m looking to collaborate on with other software engineers
 
